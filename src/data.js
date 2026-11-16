@@ -14,14 +14,14 @@ export const personalInfo = {
   statusRole: "Available for Software Developer / SDE Roles (Immediate)",
   location: "Delhi, India",
   email: "riddhigupta3102@gmail.com",
-  phone: "+91 8920725902",
+  phone: "+91 7302627643",
   resumePath: "/Riddhi_Gupta_2026.pdf", // Place your resume PDF in the public/ folder
   
   socials: {
     github: "https://github.com/Riddhigupta3102",
     linkedin: "https://www.linkedin.com/in/riddhi-gupta-540568330",
     email: "mailto:riddhigupta3102@gmail.com",
-    whatsapp: "https://wa.me/918920725902?text=Hi%20Riddhi,%20I%20reviewed%20your%20portfolio%20and%20would%20love%20to%20connect!",
+    whatsapp: "https://wa.me/917302627643?text=Hi%20Riddhi,%20I%20reviewed%20your%20portfolio%20and%20would%20love%20to%20connect!",
   },
   
   // Formspree Form ID for Contact Form (Optional - replace with your Formspree ID e.g. "xyzyzqla")
@@ -289,8 +289,8 @@ export const educationData = [
     location: "Delhi, India",
     period: "Graduated 2025",
     type: "Degree",
-    badge: "Graduated",
-    details: "Core Computer Science curriculum: Data Structures & Algorithms, Database Management Systems (DBMS), Software Engineering, Web Technologies, and Computer Networking."
+    badge: "Graduated 2025 (61.54%)",
+    details: "Core Computer Science curriculum: Data Structures & Algorithms, Database Management Systems (DBMS), Software Engineering, Web Technologies, and Computer Networking. Percentage: 61.54%."
   },
   {
     degree: "Java Full Stack Certification",
@@ -299,7 +299,7 @@ export const educationData = [
     period: "Completed 2025",
     type: "Certification",
     badge: "Certified",
-    details: "Comprehensive hands-on training across Core Java, Object-Oriented Design, J2EE/Spring basics, SQL databases, RESTful Web Services, and client-server architecture."
+    details: "Comprehensive hands-on training across Core Java, Object-Oriented Design, J2EE/Spring basics, SQL databases, RESTful Web Services, and client-server architecture. Completed practical projects involving database, development, and presentations."
   }
 ];
 
@@ -307,7 +307,7 @@ export const contactInfo = {
   heading: "Let's build something remarkable together.",
   subheading: "Open to Software Developer, Full Stack Developer, and SDE roles at MNCs and high-growth startups.",
   email: "riddhigupta3102@gmail.com",
-  phone: "+91 8920725902",
+  phone: "+91 7302627643",
   location: "Delhi, India (Open to Remote / Relocation)",
   socials: [
     { name: "GitHub", url: "https://github.com/Riddhigupta3102", icon: "Github" },
