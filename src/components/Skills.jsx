@@ -24,6 +24,7 @@ export default function Skills() {
     Globe: Globe,
     Wrench: Wrench,
     ShieldCheck: ShieldCheck,
+    Sparkles: Sparkles,
   };
 
   const categories = ['All', ...skillsData.map((s) => s.category)];

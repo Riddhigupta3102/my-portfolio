@@ -150,18 +150,24 @@ export default function Hero() {
           <div className="hidden sm:block h-4 w-px bg-slate-300 dark:bg-slate-700" />
 
           {/* Quick Core Tech Chips */}
-          <div className="flex items-center gap-2 text-xs font-mono text-slate-500 dark:text-slate-400">
+          <div className="flex flex-wrap items-center justify-center gap-2 text-xs font-mono text-slate-500 dark:text-slate-400">
+            <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-cyan-600 dark:text-cyan-400">
+              React
+            </span>
+            <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-emerald-600 dark:text-emerald-400">
+              Node.js
+            </span>
             <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-indigo-600 dark:text-indigo-400">
               MongoDB
             </span>
             <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-slate-700 dark:text-slate-300">
               Express
             </span>
-            <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-cyan-600 dark:text-cyan-400">
-              React
+            <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-amber-600 dark:text-amber-400">
+              Java
             </span>
-            <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-emerald-600 dark:text-emerald-400">
-              Node
+            <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-violet-600 dark:text-violet-400">
+              SQL
             </span>
           </div>
         </div>

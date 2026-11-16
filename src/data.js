@@ -71,6 +71,18 @@ export const aboutData = {
 
 export const skillsData = [
   {
+    category: "Languages",
+    icon: "Code2",
+    skills: [
+      "JavaScript (ES6+)",
+      "Java (Core & OOP)",
+      "SQL (Relational Queries)",
+      "HTML5",
+      "CSS3",
+      "JSON"
+    ]
+  },
+  {
     category: "Frontend",
     icon: "Layout",
     skills: [
@@ -80,8 +92,10 @@ export const skillsData = [
       "CSS3",
       "Tailwind CSS",
       "Bootstrap",
-      "Responsive Design",
-      "Reusable Components"
+      "Responsive Web Design",
+      "Reusable Components",
+      "DOM Manipulation",
+      "UI/UX Design"
     ]
   },
   {
@@ -92,8 +106,10 @@ export const skillsData = [
       "Express.js",
       "RESTful APIs",
       "CRUD Operations",
-      "JSON",
-      "Client-Server Architecture"
+      "Client-Server Architecture",
+      "MVC Architecture",
+      "JSON Web Services",
+      "API Testing (Postman)"
     ]
   },
   {
@@ -103,16 +119,9 @@ export const skillsData = [
       "MongoDB",
       "SQL",
       "Mongoose ODM",
-      "Relational Schema Design"
-    ]
-  },
-  {
-    category: "Languages",
-    icon: "Code2",
-    skills: [
-      "JavaScript (ES6+)",
-      "Java (Core & Full Stack)",
-      "SQL"
+      "Database Schema Design",
+      "CRUD Queries",
+      "Data Normalization"
     ]
   },
   {
@@ -121,7 +130,9 @@ export const skillsData = [
     skills: [
       "WordPress",
       "Wix",
-      "Next.js"
+      "Next.js",
+      "Content Management (CMS)",
+      "Theme Customization"
     ]
   },
   {
@@ -135,17 +146,33 @@ export const skillsData = [
       "VS Code",
       "Cursor",
       "Claude",
-      "GitHub Copilot"
+      "GitHub Copilot",
+      "Postman",
+      "npm"
     ]
   },
   {
     category: "Practices",
     icon: "ShieldCheck",
     skills: [
+      "Full Stack Development",
       "Debugging & Testing",
       "Cross-Browser Compatibility",
       "Requirement Analysis",
-      "Technical Documentation"
+      "Documentation",
+      "Agile & SDLC"
+    ]
+  },
+  {
+    category: "Core Strengths",
+    icon: "Sparkles",
+    skills: [
+      "Attention to Detail",
+      "Collaboration",
+      "Adaptability",
+      "Learning Agility",
+      "Problem Solving",
+      "Requirement Scoping"
     ]
   }
 ];
