@@ -163,9 +163,6 @@ export default function Hero() {
             <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-slate-700 dark:text-slate-300">
               Express
             </span>
-            <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-amber-600 dark:text-amber-400">
-              Java
-            </span>
             <span className="px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700/60 font-semibold text-violet-600 dark:text-violet-400">
               SQL
             </span>

@@ -75,7 +75,7 @@ export const skillsData = [
     icon: "Code2",
     skills: [
       "JavaScript (ES6+)",
-      "Java (Core & OOP)",
+      "Java (Basic)",
       "SQL (Relational Queries)",
       "HTML5",
       "CSS3",
@@ -118,7 +118,6 @@ export const skillsData = [
     skills: [
       "MongoDB",
       "SQL",
-      "Mongoose ODM",
       "Database Schema Design",
       "CRUD Queries",
       "Data Normalization"
@@ -130,7 +129,6 @@ export const skillsData = [
     skills: [
       "WordPress",
       "Wix",
-      "Next.js",
       "Content Management (CMS)",
       "Theme Customization"
     ]
@@ -159,8 +157,7 @@ export const skillsData = [
       "Debugging & Testing",
       "Cross-Browser Compatibility",
       "Requirement Analysis",
-      "Documentation",
-      "Agile & SDLC"
+      "Documentation"
     ]
   },
   {
@@ -219,7 +216,7 @@ export const projectsData = [
     id: "ganexa-digital",
     featured: true,
     title: "GanExa Digital Solution — Business Website",
-    subtitle: "Commercial Agency Platform (My Own Company)",
+    subtitle: "Commercial Agency Platform",
     badge: "Agency Platform",
     description: "Production website for my digital agency offering website development, redesign, CRM development, maintenance and digital marketing. Features a conversion-focused layout, interactive 3D hero element, services and pricing sections, WhatsApp quick-chat integration, inquiry form with email alerts, SEO meta setup and a fully responsive design.",
     features: [
