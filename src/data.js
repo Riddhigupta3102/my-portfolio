@@ -255,29 +255,29 @@ export const projectsData = [
   {
     id: "portfolio-foundations",
     featured: false,
-    title: "Modern Web Showcase & Foundations",
-    subtitle: "Semantic HTML5, CSS3 & ES6+ Architecture",
-    badge: "Core Web",
-    description: "Responsive portfolio and modular UI component system built with pure HTML5, CSS3, and modern JavaScript (ES6+). Demonstrates deep foundational knowledge of the DOM, flexbox/grid layout systems, cross-browser compatibility, and continuous deployment through GitHub Pages.",
+    title: "Personal Portfolio Website",
+    subtitle: "React.js 18, Tailwind CSS & Vercel Deployment",
+    badge: "React.js + Tailwind",
+    description: "Designed and developed a responsive personal portfolio website using React.js 18 with component-driven architecture, functional components, and hooks (useState, useEffect). Styled with Tailwind CSS 3 for responsive layouts across devices and deployed on Vercel.",
     features: [
-      "Semantic HTML5 structure ensuring high accessibility (a11y) and SEO friendliness",
-      "Custom responsive CSS with media queries supporting 360px mobile to ultra-wide displays",
-      "Vanilla JavaScript DOM manipulation and event delegation patterns",
-      "Hosted and deployed with automated GitHub Actions & GitHub Pages pipeline"
+      "Component-driven single page architecture built with React 18 functional components and hooks",
+      "Styled with Tailwind CSS 3 with custom glassmorphism, responsive design and dark/light theme persistence",
+      "Zero-backend contact integration with Formspree and native mailto triggers",
+      "Continuous deployment pipeline hosted on Vercel"
     ],
     techStack: [
-      "HTML5",
-      "CSS3",
+      "React.js 18",
+      "Tailwind CSS 3",
+      "Vite",
       "JavaScript (ES6+)",
-      "Responsive Design",
-      "GitHub Pages",
-      "Accessibility"
+      "Vercel",
+      "Responsive Design"
     ],
-    liveUrl: "https://github.com/Riddhigupta3102",
-    githubUrl: "https://github.com/Riddhigupta3102",
-    primaryImage: "/projects/shopx-products.jpg",
+    liveUrl: "https://my-portfolio-git-main-riddhigupta3102s-projects.vercel.app/",
+    githubUrl: "https://github.com/Riddhigupta3102/my-portfolio",
+    primaryImage: "/projects/shopx-hero.jpg",
     gallery: [
-      { url: "/projects/shopx-products.jpg", caption: "Responsive UI & Layout Engineering" }
+      { url: "/projects/shopx-hero.jpg", caption: "Single-Page Responsive Portfolio" }
     ]
   }
 ];
