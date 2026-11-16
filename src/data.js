@@ -88,6 +88,7 @@ export const skillsData = [
     skills: [
       "React.js",
       "JavaScript (ES6+)",
+      "State Management (Context/Redux)",
       "HTML5",
       "CSS3",
       "Tailwind CSS",
@@ -105,11 +106,12 @@ export const skillsData = [
       "Node.js",
       "Express.js",
       "RESTful APIs",
+      "JWT / Authentication",
       "CRUD Operations",
-      "Client-Server Architecture",
       "MVC Architecture",
+      "Client-Server Architecture",
       "JSON Web Services",
-      "API Testing (Postman)"
+      "Postman"
     ]
   },
   {
@@ -117,6 +119,7 @@ export const skillsData = [
     icon: "Database",
     skills: [
       "MongoDB",
+      "Mongoose",
       "SQL",
       "Database Schema Design",
       "CRUD Queries",
@@ -141,12 +144,12 @@ export const skillsData = [
       "GitHub",
       "Vercel",
       "GitHub Pages",
+      "Postman",
+      "npm",
       "VS Code",
       "Cursor",
       "Claude",
-      "GitHub Copilot",
-      "Postman",
-      "npm"
+      "GitHub Copilot"
     ]
   },
   {
@@ -154,6 +157,7 @@ export const skillsData = [
     icon: "ShieldCheck",
     skills: [
       "Full Stack Development",
+      "Agile",
       "Debugging & Testing",
       "Cross-Browser Compatibility",
       "Requirement Analysis",
@@ -194,10 +198,12 @@ export const projectsData = [
       "Node.js",
       "Express.js",
       "MongoDB",
+      "Mongoose",
+      "JWT/Auth",
       "REST APIs",
       "CRUD",
+      "Context API",
       "Responsive Design",
-      "Reusable Components",
       "Vercel"
     ],
     liveUrl: "https://e-commerce-git-main-riddhigupta3102s-projects.vercel.app/",
