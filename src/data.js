@@ -226,11 +226,10 @@ export const projectsData = [
     badge: "Agency Platform",
     description: "Production website for my digital agency offering website development, redesign, CRM development, maintenance and digital marketing. Features a conversion-focused layout, interactive 3D hero element, services and pricing sections, WhatsApp quick-chat integration, inquiry form with email alerts, SEO meta setup and a fully responsive design.",
     features: [
-      "Conversion-engineered landing layout featuring an interactive 3D celestial sphere hero",
-      "Interactive capabilities showcase & tiered service packages (Web Dev, Redesign, CRM, Maintenance)",
-      "Integrated client inquiry form with automated email alerts and synchronized database logging",
-      "Direct omnichannel conversion triggers: floating WhatsApp quick-chat (+91 8920725902) & priority call line",
-      "Complete SEO meta tags setup, high performance Lighthouse scores, and pixel-perfect responsiveness"
+      "Developed and launched the production website for GanExa Digital Solution using Next.js and React.js to present web development, CRM, and digital marketing services",
+      "Built a responsive, mobile-first user interface with services, packages, and contact sections using HTML5 and CSS3 across mobile, tablet, and desktop",
+      "Implemented a lead-capture inquiry form with 2 lead channels, automated email notifications and WhatsApp click-to-chat to capture and manage client leads",
+      "Integrated SEO meta configuration, high performance Lighthouse scores, and conversion-focused CTAs"
     ],
     techStack: [
       "Next.js",
@@ -304,10 +303,10 @@ export const experienceData = [
     type: "Industry Internship",
     isCurrent: false,
     points: [
-      "Handled client website requests end-to-end from requirement analysis to final production delivery.",
-      "Performed rigorous testing, debugging, and cross-browser compatibility checks using HTML, CSS, and JavaScript.",
-      "Maintained, customized, and updated dynamic websites powered by WordPress and Wix platforms.",
-      "Crafted responsive layouts across desktop, tablet, and mobile devices adhering to strict client brand guidelines."
+      "Analyzed client requirements and delivered website projects end to end during a 3-month internship, ensuring outputs met business requirements and quality standards.",
+      "Performed testing, debugging, and cross-browser compatibility checks using HTML, CSS, and JavaScript to identify and resolve front-end issues early and improve user experience.",
+      "Maintained and updated websites across 2 platforms, WordPress and Wix, modifying pages, layouts, and content to keep websites accurate and consistent.",
+      "Developed responsive layouts for 3 screen sizes (desktop, tablet, mobile) using HTML5 and CSS3, following design specifications and project guidelines."
     ]
   }
 ];
