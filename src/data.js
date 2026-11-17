@@ -120,7 +120,7 @@ export const skillsData = [
     skills: [
       "MongoDB",
       "Mongoose",
-      "SQL",
+      "SQL (MySQL)",
       "Database Schema Design",
       "CRUD Queries",
       "Data Normalization"
